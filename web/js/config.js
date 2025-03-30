@@ -26,6 +26,12 @@ const config = {
             backgroundImage: 'https://i.ibb.co/vxvGzg1/card.png',
             prop: 'prop_franklin_dl',
         },
+        'huntinglicense': {
+            header: 'Hunting License',
+            background: '#c7ffe5',
+            backgroundImage: 'https://i.ibb.co/vxvGzg1/card.png',
+            prop: 'prop_franklin_dl',
+        },
         'lawyerpass': {
             header: 'Lawyer Pass',
             background: '#f9c491',
